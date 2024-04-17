@@ -1,0 +1,1 @@
+# Bash Shell Install Menson CDN
